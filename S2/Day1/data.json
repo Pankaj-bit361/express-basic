@@ -1,0 +1,25 @@
+
+{
+    "students":[
+        {
+            "name":"Chunnu",
+            "city":"delhi"
+        },
+
+        {
+            "name":"Munnu",
+            "city":"dehradun"
+        }
+
+ 
+    ]
+
+,
+    "teacher":[
+        
+        {
+            "name":"Nunnu",
+            "city":"mumbai"
+        }
+    ]
+}
